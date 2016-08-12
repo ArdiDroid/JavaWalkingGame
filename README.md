@@ -1,4 +1,14 @@
 # Computer Graphics
+
+#Task
+Project akhir mata kuliah grafika komputer yang di bimbing oleh bapak Eriq Muhammad Adams dengan tema pedesaan. 
+Feature pada project ini meliputi:
+- Follow camera (third person) pada helicopter
+- Melakukan penggantian skybox (weather)
+- Merubah pencahayaan siang dan malam
+- Tombol A S D W  dan mouse sebagai navigasi
+
+
 Computer Graphics Course Example, Dept. Informatics, Faculty Computer Science, University of Brawijaya.  
 Please note that in this course we're used OpenGL version 1 (Fixed Function Pipeline)  
 #Table of Contents  
