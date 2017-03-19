@@ -8,6 +8,9 @@ Feature pada project ini meliputi:
 - Merubah pencahayaan siang dan malam
 - Tombol A S D W  dan mouse sebagai navigasi
 
+#Preview
+Video percobaan game ini dapat diakses pada link youtube
+https://www.youtube.com/watch?v=xqKqZ0hNICM&t=3s
 
 Computer Graphics Course Example, Dept. Informatics, Faculty Computer Science, University of Brawijaya.  
 Please note that in this course we're used OpenGL version 1 (Fixed Function Pipeline)  
